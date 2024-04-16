@@ -1,0 +1,35 @@
+body {
+    background-color: #d84141;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+  }
+  
+  nav a {
+    position: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #b78601;
+    text-decoration: none;
+    border: 20px;
+  }
+  
+  main {
+    text-align: left;
+  }
+  
